@@ -415,6 +415,14 @@ p {
   .nfs {
     display: none;
   }
+  .nfs-text img {
+    position: static;
+    width: 100%;
+  }
+  .nfs-text p {
+    font-size: 10px;
+    padding: 0;
+  }
 }
 
 .btn {
